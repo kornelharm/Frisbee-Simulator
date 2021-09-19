@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Frisbee.obj-62e652280c86d7b7e1f5ea2a0c57c547.mesh"
+
+[deps]
+
+files=[ "res://.import/Frisbee.obj-62e652280c86d7b7e1f5ea2a0c57c547.mesh" ]
+
+source_file="res://Objects/Frisbee.obj"
+dest_files=[ "res://.import/Frisbee.obj-62e652280c86d7b7e1f5ea2a0c57c547.mesh", "res://.import/Frisbee.obj-62e652280c86d7b7e1f5ea2a0c57c547.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
